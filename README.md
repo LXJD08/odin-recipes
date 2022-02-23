@@ -1,5 +1,5 @@
 # odin-recipes
-Odin_Project_1
+
 
 A sandbox html website utlising food recipes to present some of the basic html functions.
 
